@@ -1,6 +1,3 @@
 pandas>=2.0
 streamlit>=1.50
 plotly>=5.18
-
-# Rode 
-pip install -r requirements.txt
